@@ -1,10 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: linkspreed # Your GitHub organization or username, where this repository lives
+repo: linkspreed_uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Linkspreed
+    url: https://www.linkspreed.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
