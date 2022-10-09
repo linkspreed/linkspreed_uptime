@@ -4,19 +4,19 @@
     "url": "https://www.linkspreed.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkspreed.com.ico",
     "slug": "linkspreed",
-    "status": "down",
-    "uptime": "87.93%",
-    "uptimeDay": "87.93%",
-    "uptimeWeek": "87.93%",
-    "uptimeMonth": "87.93%",
-    "uptimeYear": "87.93%",
-    "time": 1227,
-    "timeDay": 1227,
-    "timeWeek": 1227,
-    "timeMonth": 1227,
-    "timeYear": 1227,
+    "status": "up",
+    "uptime": "84.69%",
+    "uptimeDay": "84.69%",
+    "uptimeWeek": "84.69%",
+    "uptimeMonth": "84.69%",
+    "uptimeYear": "84.69%",
+    "time": 1198,
+    "timeDay": 1198,
+    "timeWeek": 1198,
+    "timeMonth": 1198,
+    "timeYear": 1198,
     "dailyMinutesDown": {
-      "2022-10-09": 98
+      "2022-10-09": 129
     }
   }
 ]
