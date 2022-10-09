@@ -3,6 +3,14 @@ owner: linkspreed # Your GitHub organization or username, where this repository 
 repo: linkspreed_uptime # The name of this repository
 
 sites:
+  - name: Adseasy
+    url: https://adseasy.tk
+  - name: Analytix
+    url: https://analytix.tk
+  - name: Articly
+    url: https://articly.tk
+  - name: Backpay
+    url: https://backpay.cf
   - name: Linkspreed
     url: https://www.linkspreed.com
 
