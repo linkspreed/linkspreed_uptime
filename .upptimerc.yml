@@ -11,8 +11,236 @@ sites:
     url: https://articly.tk
   - name: Backpay
     url: https://backpay.cf
+  - name: BeYou
+    url: https://beyou.cf
+  - name: Biospreed
+    url: https://biospreed.tk
+  - name: CallCloud
+    url: https://callcloud.cf
+  - name: Ceal
+    url: https://ceal.ga
+  - name: Cheezz
+    url: https://cheezz.tk
+  - name: Chirp
+    url: https://chirp.ga
+  - name: Chitter
+    url: https://chitter.ml
+  - name: Cloud2Go
+    url: https://cloud2go.tk
+  - name: Cloud2Go Share
+    url: https://share.cloud2go.tk
+  - name: Cloud2Share
+    url: https://cloud2share.tk
+  - name: CloudSpreed
+    url: https://cloudspreed.tk
+  - name: Contribution
+    url: https://contribution.tk
+  - name: Critch
+    url: https://critch.cf
+  - name: CrossQA
+    url: https://crossqa.tk
+  - name: Datify
+    url: https://datify.cf
+  - name: Discounty
+    url: https://discounty.tk
+  - name: Diskit
+    url: https://diskit.tk
+  - name: Downflix
+    url: https://downflix.cf
+  - name: Dreambuild
+    url: https://dreambuild.tk
+  - name: Firelaps
+    url: https://firelaps.cf
+  - name: ForJu
+    url: https://forju.tk
+  - name: GetPro
+    url: https://getpro.gq/
+  - name: Gogola
+    url: https://gogola.ga
+  - name: Grown
+    url: https://grown.tk
+  - name: Guju
+    url: https://guju.tk
+  - name: Him4Her
+    url: https://him4her.tk
+  - name: Hutty
+    url: https://hutty.tk
+  - name: IceCloud
+    url: https://icecloud.cf
+  - name: Ignyte
+    url: https://ignyte.tk
+  - name: Kisk
+    url: https://kisk.tk
+  - name: KitChat
+    url: https://kitchat.tk
+  - name: Lime
+    url: https://lime.gq
+  - name: LinkCream
+    url: https://linkcream.tk
   - name: Linkspreed
-    url: https://www.linkspreed.com
+    url: https://linkspreed.com (.de)
+  - name: Linkspreed Analytics
+    url: https://analytics.linkspreed.com
+  - name: Linkspreed Drive
+    url: https://drive.linkspreed.com
+  - name: Helpdesk Linkspreed
+    url: https://helpdesk.linkspreed.com/
+  - name: Linkspreed Photos
+    url: https://photos.linkspreed.com
+  - name: Linkspreed Store
+    url: https://store.linkspreed.com
+  - name: LinkLab
+    url: https://linklab.ga
+  - name: LSily
+    url: https://lsily.tk
+  - name: LSNews
+    url: https://lsnews.cf
+  - name: Mapsli
+    url: https://mapsli.tk
+  - name: Memevid
+    url: https://memevid.tk
+  - name: Metabox
+    url: https://metabox.ga
+  - name: Metaspace
+    url: https://metaspace.tk
+  - name: Musiccloud
+    url: https://musiccloud.cf
+  - name: MyBuy
+    url: https://mybuy.cf
+  - name: MyDancX
+    url: https://mydancx.cf
+  - name: Netavark
+    url: https://netavark.tk
+  - name: NewsNode
+    url: https://newsnode.tk
+  - name: Niming
+    url: https://niming.tk
+  - name: Nither
+    url: https://nither.tk
+  - name: NodX
+    url: https://nodx.tk
+  - name: OnlyPaid
+    url: https://onlypaid.tk
+  - name: Ondu
+    url: https://ondu.tk
+  - name: Payback
+    url: https://payback.ga
+  - name: Payback
+    url: https://payback.gq
+  - name: PayCount
+    url: https://paycount.cf
+  - name: Peek
+    url: https://peek.ml
+  - name: Petabyte
+    url: https://petabyte.ml
+  - name: PinPix
+    url: https://pinpix.cf
+  - name: PinSec
+    url: https://pinsec.tk
+  - name: Pixly
+    url: https://pixly.tk
+  - name: Ples
+    url: https://ples.ml
+  - name: Poddy
+    url: https://poddy.tk
+  - name: Profilio
+    url: https://www.profilio.cf
+  - name: Pubit
+    url: https://pubit.tk
+  - name: QRMe
+    url: https://qrme.cf
+  - name: Quexy
+    url: https://quexy.cf
+  - name: Rank
+    url: https://rank.ga
+  - name: Reply
+    url: https://reply.cf
+  - name: SeedSpreed
+    url: https://seedspreed.cf
+  - name: Share
+    url: https://share.ga
+  - name: ShareNode
+    url: https://sharenode.tk
+  - name: Shortcut
+    url: https://shortcut.tk
+  - name: Shortrack
+    url: https://shortrack.tk
+  - name: Showit
+    url: https://showit.tk
+  - name: Slinky
+    url: https://slinky.ml
+  - name: Slurch
+    url: https://slurch.tk
+  - name: SmartPix
+    url: https://smartpix.cf
+  - name: SnapLink
+    url: https://snaplink.tk
+  - name: Snippite
+    url: https://snippite.tk
+  - name: Snoogie
+    url: https://snoogie.tk
+  - name: SoundChest
+    url: https://soundchest.cf 
+  - name: Spypy
+    url: https://spypy.cf
+  - name: Start2Up
+    url: https://start2up.tk
+  - name: Stix
+    url: https://stix.ga
+  - name: Store4Ju
+    url: https://store4ju.tk
+  - name: Storee
+    url: https://storee.cf
+  - name: StreamValley
+    url: https://streamvalley.cf 
+  - name: StreamValley API
+    url: https://api.streamvalley.cf 
+  - name: Tacuu
+    url: https://tacuu.tk
+  - name: Takestore
+    url: https://takestore.tk
+  - name: Tasksboard
+    url: https://tasksboard.tk
+  - name: Taya
+    url: https://taya.cf
+  - name: Teamix
+    url: https://teamix.cf
+  - name: Teamslite
+    url: https://teamslite.tk
+  - name: TeamSpreed
+    url: https://teamspreed.cf
+  - name: Tizza
+    url: https://tizza.tk
+  - name: Toolkit
+    url: https://toolkit.ga
+  - name: Tuit
+    url: https://tuit.cf
+  - name: Tungolino
+    url: https://tungolino.tk
+  - name: Tweetch
+    url: https://tweetch.cf 
+  - name: Twig
+    url: https://twig.cf
+  - name: uCube
+    url: https://ucube.cf
+  - name: UltiCloud
+    url: https://ulticloud.tk
+  - name: Up2Date
+    url: https://up2date.tk
+  - name: UpDown
+    url: https://updown.ml
+  - name: UpNode
+    url: https://upnode.cf
+  - name: VoiceClub
+    url: https://voiceclub.tk
+  - name: Web5
+    url: https://web5.cf
+  - name: Whatsline
+    url: https://whatsline.tk
+  - name: Write
+    url: https://write.cf
+  - name: Yourpod
+    url: https://yourpod.cf
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
