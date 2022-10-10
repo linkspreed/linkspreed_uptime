@@ -242,15 +242,6 @@ sites:
     url: https://write.cf
   - name: Yourpod
     url: https://yourpod.cf
-    
-  workflowSchedule:
-  graphs: "*/20 * * * *"
-  responseTime: "*/20 * * * *"
-  staticSite: "*/20 * * * *"
-  summary: "*/20 * * * *"
-  updateTemplate: "*/20 * * * *"
-  updates: "*/20 * * * *"
-  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
