@@ -250,8 +250,8 @@ status-website:
   # baseUrl: /linkspreed_uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Linkspreed Status
-  introTitle: "**Linkspreed Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Linkspreed Status** is the open-source uptime monitor and status page, powered entirely by Linkspreed."
+  introMessage: Get **real-time** data from our [GitHub repository](https://github.com/linkspreed/linkspreed_uptime). Visit Linkspreed now on Github.. [**Jump to Github**](https://github.com/linkspreed)
   navbar:
     - title: Status
       href: /
