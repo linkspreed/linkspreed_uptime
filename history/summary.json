@@ -671,18 +671,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkspreed.com.ico",
     "slug": "linkspreed",
     "status": "up",
-    "uptime": "55.41%",
+    "uptime": "55.40%",
     "uptimeDay": "57.50%",
-    "uptimeWeek": "55.41%",
-    "uptimeMonth": "55.41%",
-    "uptimeYear": "55.41%",
+    "uptimeWeek": "55.40%",
+    "uptimeMonth": "55.40%",
+    "uptimeYear": "55.40%",
     "time": 1745,
     "timeDay": 4741,
     "timeWeek": 1745,
     "timeMonth": 1745,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2022-10-11": 13,
+      "2022-10-11": 14,
       "2022-10-10": 1189,
       "2022-10-09": 388
     }
