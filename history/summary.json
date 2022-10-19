@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud2go.tk.ico",
     "slug": "cloud2-go",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.72%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
     "time": 1220,
     "timeDay": 915,
     "timeWeek": 1350,
     "timeMonth": 1220,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2022-10-19": 171
+      "2022-10-19": 185
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "https://share.cloud2go.tk",
     "icon": "https://icons.duckduckgo.com/ip3/share.cloud2go.tk.ico",
     "slug": "cloud2-go-share",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 691,
-    "timeDay": 498,
-    "timeWeek": 693,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 696,
+    "timeDay": 595,
+    "timeWeek": 702,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2022-10-19": 3
+      "2022-10-19": 15
     }
   },
   {
@@ -675,11 +675,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkspreed.com.ico",
     "slug": "linkspreed",
     "status": "up",
-    "uptime": "84.52%",
+    "uptime": "84.54%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "93.44%",
-    "uptimeMonth": "84.52%",
-    "uptimeYear": "84.52%",
+    "uptimeMonth": "84.54%",
+    "uptimeYear": "84.54%",
     "time": 3192,
     "timeDay": 1576,
     "timeWeek": 2449,
@@ -956,18 +956,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mydancx.cf.ico",
     "slug": "my-danc-x",
     "status": "down",
-    "uptime": "95.97%",
-    "uptimeDay": "59.66%",
-    "uptimeWeek": "94.24%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "uptime": "95.87%",
+    "uptimeDay": "58.67%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "95.87%",
     "time": 1086,
     "timeDay": 782,
     "timeWeek": 963,
     "timeMonth": 1086,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2022-10-19": 581
+      "2022-10-19": 595
     }
   },
   {
