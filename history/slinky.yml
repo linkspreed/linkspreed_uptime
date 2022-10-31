@@ -1,7 +1,7 @@
 url: https://slinky.ml
-status: up
-code: 200
-responseTime: 1399
-lastUpdated: 2022-10-31T13:54:11.103Z
+status: down
+code: 429
+responseTime: 518
+lastUpdated: 2022-10-31T14:23:45.347Z
 startTime: Sun Oct 09 2022 19:42:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
