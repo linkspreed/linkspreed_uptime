@@ -1,7 +1,7 @@
 url: https://pubit.tk
-status: up
-code: 200
-responseTime: 1369
-lastUpdated: 2022-10-31T15:55:46.747Z
+status: down
+code: 429
+responseTime: 619
+lastUpdated: 2022-10-31T21:35:38.568Z
 startTime: Sun Oct 09 2022 19:41:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
