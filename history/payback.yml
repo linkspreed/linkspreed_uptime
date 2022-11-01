@@ -1,7 +1,7 @@
 url: https://payback.ga
-status: up
-code: 200
-responseTime: 1430
-lastUpdated: 2022-11-01T10:41:00.405Z
+status: down
+code: 429
+responseTime: 619
+lastUpdated: 2022-11-01T20:02:08.276Z
 startTime: Sun Oct 09 2022 19:41:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
