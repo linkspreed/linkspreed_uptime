@@ -1,7 +1,7 @@
 url: https://reply.cf
-status: up
-code: 200
-responseTime: 750
-lastUpdated: 2022-11-05T23:09:17.851Z
+status: down
+code: 429
+responseTime: 599
+lastUpdated: 2022-11-06T03:13:05.757Z
 startTime: Sun Oct 09 2022 19:41:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
