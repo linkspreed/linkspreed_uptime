@@ -80,7 +80,6 @@ sites:
     url: https://linkcream.tk
   - name: Linkspreed
     url: https://linkspreed.com
-    maxResponseTime: 20000
   - name: Linkspreed Analytics
     url: https://analytics.linkspreed.com
   - name: Linkspreed Drive
