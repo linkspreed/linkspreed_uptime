@@ -76,6 +76,8 @@ sites:
     url: https://kisk.tk
   - name: KitChat
     url: https://kitchat.tk
+  - name: LaaS
+    url: https://laas.ml
   - name: Lime
     url: https://lime.gq
   - name: LinkCream
