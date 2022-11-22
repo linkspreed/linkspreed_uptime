@@ -1,7 +1,7 @@
 url: https://tuit.cf
-status: up
-code: 200
-responseTime: 5053
-lastUpdated: 2022-11-22T09:54:47.064Z
+status: down
+code: 429
+responseTime: 580
+lastUpdated: 2022-11-22T11:40:21.357Z
 startTime: Sun Oct 09 2022 19:42:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
