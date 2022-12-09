@@ -226,7 +226,7 @@ sites:
     url: https://teamspreed.cf
   - name: Tizza
     url: https://tizza.tk
-      - name: Toolbox
+  - name: Toolbox
     url: https://toolbox.ga
   - name: Toolkit
     url: https://toolkit.ga
