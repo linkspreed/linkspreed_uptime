@@ -1,7 +1,7 @@
 url: https://gogola.ga
-status: up
-code: 200
-responseTime: 28639
-lastUpdated: 2022-12-11T19:27:37.338Z
+status: down
+code: 500
+responseTime: 19195
+lastUpdated: 2022-12-11T20:23:42.383Z
 startTime: Sun Oct 09 2022 19:40:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
