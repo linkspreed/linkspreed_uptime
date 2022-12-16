@@ -1,7 +1,7 @@
 url: https://tweetch.cf
-status: up
-code: 200
-responseTime: 1006
-lastUpdated: 2022-12-16T06:32:08.236Z
+status: down
+code: 429
+responseTime: 896
+lastUpdated: 2022-12-16T07:16:34.388Z
 startTime: Sun Oct 09 2022 19:42:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
