@@ -45,6 +45,8 @@ sites:
     url: https://crossqa.tk
   - name: Datify
     url: https://datify.cf
+  - name: DeePage
+    url: https://deepage.tk
   - name: Discounty
     url: https://discounty.tk
   - name: Diskit
