@@ -1,7 +1,7 @@
 url: https://upnode.cf
-status: up
-code: 200
-responseTime: 680
-lastUpdated: 2022-12-17T21:05:24.948Z
+status: down
+code: 429
+responseTime: 625
+lastUpdated: 2022-12-17T22:03:36.881Z
 startTime: Sun Oct 09 2022 19:43:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
