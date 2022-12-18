@@ -1,7 +1,7 @@
 url: https://web5.cf
-status: up
-code: 200
-responseTime: 1582
-lastUpdated: 2022-12-18T03:32:26.597Z
+status: down
+code: 429
+responseTime: 885
+lastUpdated: 2022-12-18T03:49:52.923Z
 startTime: Sun Oct 09 2022 19:43:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
