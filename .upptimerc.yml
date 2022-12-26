@@ -30,7 +30,7 @@ sites:
   - name: Cloud2Go
     url: https://cloud2go.tk
   - name: Cloud2Go Share
-    url: https://share.cloud2go.tk
+    url: http://share.cloud2go.tk
   - name: Cloud2Share
     url: https://cloud2share.tk
   - name: CloudSpreed
