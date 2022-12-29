@@ -1,7 +1,7 @@
 url: https://ulticloud.tk
-status: up
-code: 200
-responseTime: 1987
-lastUpdated: 2022-12-28T23:29:38.978Z
+status: down
+code: 429
+responseTime: 603
+lastUpdated: 2022-12-29T03:13:45.983Z
 startTime: Sun Oct 09 2022 19:43:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
