@@ -5,6 +5,8 @@ repo: linkspreed_uptime # The name of this repository
 sites:
   - name: Adseasy
     url: https://adseasy.tk
+  - name: Airr
+    url: https://airr.tk
   - name: Analytix
     url: https://analytix.tk
   - name: Articly
@@ -76,6 +78,8 @@ sites:
     url: https://icecloud.cf
   - name: Ignyte
     url: https://ignyte.tk
+  - name: Joyn
+    url: https://joyn.tk
   - name: Kisk
     url: https://kisk.tk
   - name: KitChat
@@ -208,6 +212,8 @@ sites:
     url: https://store4ju.tk
   - name: Storee
     url: https://storee.cf
+  - name: Storpad
+    url: https://storpad.tk
   - name: StreamValley
     url: https://streamvalley.cf 
   - name: StreamValley API
