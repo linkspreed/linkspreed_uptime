@@ -1,7 +1,7 @@
 url: https://chitter.ml
-status: up
-code: 200
-responseTime: 837
-lastUpdated: 2023-01-01T23:05:38.130Z
+status: down
+code: 429
+responseTime: 609
+lastUpdated: 2023-01-03T13:55:35.010Z
 startTime: Sun Oct 09 2022 19:39:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
