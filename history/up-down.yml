@@ -1,7 +1,7 @@
 url: https://updown.ml
-status: up
-code: 200
-responseTime: 1785
-lastUpdated: 2023-01-05T23:58:22.661Z
+status: down
+code: 429
+responseTime: 2099
+lastUpdated: 2023-01-06T04:52:38.902Z
 startTime: Sun Oct 09 2022 19:43:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
