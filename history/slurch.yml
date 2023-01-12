@@ -1,7 +1,7 @@
 url: https://slurch.tk
-status: up
-code: 200
-responseTime: 1006
-lastUpdated: 2023-01-09T23:07:39.049Z
+status: down
+code: 429
+responseTime: 647
+lastUpdated: 2023-01-12T19:43:43.209Z
 startTime: Sun Oct 09 2022 19:42:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
