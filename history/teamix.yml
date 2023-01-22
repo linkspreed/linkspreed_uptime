@@ -1,7 +1,7 @@
 url: https://teamix.cf
-status: up
-code: 200
-responseTime: 2590
-lastUpdated: 2023-01-22T10:02:16.651Z
+status: down
+code: 429
+responseTime: 646
+lastUpdated: 2023-01-22T10:22:16.950Z
 startTime: Sun Oct 09 2022 19:42:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
