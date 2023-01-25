@@ -1,7 +1,7 @@
 url: https://toolbox.ga
-status: up
-code: 200
-responseTime: 6250
-lastUpdated: 2023-01-25T11:52:57.711Z
+status: down
+code: 429
+responseTime: 573
+lastUpdated: 2023-01-25T13:24:52.408Z
 startTime: Fri Dec 09 2022 13:21:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
