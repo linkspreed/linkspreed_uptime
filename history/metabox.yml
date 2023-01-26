@@ -1,7 +1,7 @@
 url: https://metabox.ga
-status: up
-code: 200
-responseTime: 5373
-lastUpdated: 2023-01-25T23:08:58.914Z
+status: down
+code: 429
+responseTime: 4253
+lastUpdated: 2023-01-26T11:50:01.110Z
 startTime: Sun Oct 09 2022 19:41:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
