@@ -1,7 +1,7 @@
 url: https://guju.tk
-status: up
-code: 200
-responseTime: 1029
-lastUpdated: 2023-01-25T23:08:13.160Z
+status: down
+code: 429
+responseTime: 885
+lastUpdated: 2023-01-26T11:49:21.438Z
 startTime: Sun Oct 09 2022 19:40:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
