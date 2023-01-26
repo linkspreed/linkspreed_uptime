@@ -1,7 +1,7 @@
 url: https://ondu.tk
-status: up
-code: 200
-responseTime: 2325
-lastUpdated: 2023-01-25T23:09:28.977Z
+status: down
+code: 429
+responseTime: 639
+lastUpdated: 2023-01-26T11:50:22.139Z
 startTime: Sun Oct 09 2022 19:41:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
