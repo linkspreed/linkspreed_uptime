@@ -1,7 +1,7 @@
 url: https://kitchat.tk
-status: up
-code: 200
-responseTime: 1196
-lastUpdated: 2023-01-25T23:08:24.375Z
+status: down
+code: 429
+responseTime: 621
+lastUpdated: 2023-01-26T11:49:33.987Z
 startTime: Sun Oct 09 2022 19:40:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
