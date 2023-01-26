@@ -1,7 +1,7 @@
 url: https://musiccloud.cf
-status: up
-code: 200
-responseTime: 5710
-lastUpdated: 2023-01-25T23:09:06.182Z
+status: down
+code: 429
+responseTime: 761
+lastUpdated: 2023-01-26T11:50:04.334Z
 startTime: Sun Oct 09 2022 19:41:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
