@@ -108,6 +108,8 @@ sites:
     url: https://lsily.tk
   - name: LSNews
     url: https://lsnews.cf
+  - name: Mailspread
+    url: https://mailspread.cf
   - name: Mapsli
     url: https://mapsli.tk
   - name: Memevid
