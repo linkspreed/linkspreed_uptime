@@ -1,7 +1,7 @@
 url: https://teamslite.tk
-status: up
-code: 200
-responseTime: 1126
-lastUpdated: 2023-01-29T23:40:15.788Z
+status: down
+code: 429
+responseTime: 595
+lastUpdated: 2023-01-30T00:47:31.090Z
 startTime: Sun Oct 09 2022 19:42:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
