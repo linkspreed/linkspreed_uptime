@@ -98,6 +98,8 @@ sites:
     url: https://drive.linkspreed.com
   - name: Helpdesk Linkspreed
     url: https://helpdesk.linkspreed.com/
+  - name: Linkspreed Mails
+    url: https://mails.linkspreed.com
   - name: Linkspreed Photos
     url: https://photos.linkspreed.com
   - name: Linkspreed Store
