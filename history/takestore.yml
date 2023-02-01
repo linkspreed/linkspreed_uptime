@@ -1,7 +1,7 @@
 url: https://takestore.tk
-status: up
-code: 200
-responseTime: 1195
-lastUpdated: 2023-02-01T19:36:43.293Z
+status: down
+code: 429
+responseTime: 506
+lastUpdated: 2023-02-01T19:54:01.989Z
 startTime: Sun Oct 09 2022 19:42:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
