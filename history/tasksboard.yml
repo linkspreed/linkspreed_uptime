@@ -1,7 +1,7 @@
 url: https://tasksboard.tk
-status: up
-code: 200
-responseTime: 1213
-lastUpdated: 2023-02-03T18:45:31.345Z
+status: down
+code: 429
+responseTime: 505
+lastUpdated: 2023-02-03T19:20:00.450Z
 startTime: Sun Oct 09 2022 19:42:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
