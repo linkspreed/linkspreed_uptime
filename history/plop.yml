@@ -1,7 +1,7 @@
 url: https://plop.tk
-status: up
-code: 200
-responseTime: 685
-lastUpdated: 2023-01-31T20:33:12.279Z
+status: down
+code: 429
+responseTime: 607
+lastUpdated: 2023-02-04T22:45:10.898Z
 startTime: Mon Dec 05 2022 20:47:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
