@@ -1,7 +1,7 @@
 url: https://taya.cf
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2023-02-09T18:43:19.153Z
+status: down
+code: 429
+responseTime: 846
+lastUpdated: 2023-02-09T19:33:44.368Z
 startTime: Sun Oct 09 2022 19:42:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
