@@ -104,6 +104,10 @@ sites:
     url: https://photos.linkspreed.com
   - name: Linkspreed Store
     url: https://store.linkspreed.com
+  - name: Linkspreed Web
+    url: https://web.linkspreed.com
+  - name: Linkspreed Web4
+    url: https://web4.linkspreed.com
   - name: LinkLab
     url: https://linklab.ga
   - name: LSily
