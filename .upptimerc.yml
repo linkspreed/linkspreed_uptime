@@ -53,6 +53,8 @@ sites:
     url: https://discounty.tk
   - name: Diskit
     url: https://diskit.tk
+  - name: DNServer
+    url: https://dnserver.cf
   - name: Downflix
     url: https://downflix.cf
   - name: Dreambuild
