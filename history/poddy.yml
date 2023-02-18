@@ -1,7 +1,7 @@
 url: https://poddy.tk
-status: up
-code: 200
-responseTime: 1030
-lastUpdated: 2023-02-17T23:10:01.304Z
+status: down
+code: 429
+responseTime: 513
+lastUpdated: 2023-02-18T14:53:54.550Z
 startTime: Sun Oct 09 2022 19:41:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
