@@ -1,7 +1,7 @@
 url: https://tungolino.tk
-status: up
-code: 200
-responseTime: 1000
-lastUpdated: 2023-02-28T02:35:26.322Z
+status: down
+code: 429
+responseTime: 605
+lastUpdated: 2023-02-28T04:37:30.475Z
 startTime: Sun Oct 09 2022 19:42:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
