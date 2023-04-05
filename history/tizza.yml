@@ -1,7 +1,7 @@
 url: https://tizza.tk
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2023-04-04T18:49:52.558Z
+status: down
+code: 429
+responseTime: 586
+lastUpdated: 2023-04-05T02:09:02.601Z
 startTime: Sun Oct 09 2022 19:42:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
