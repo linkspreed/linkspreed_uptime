@@ -1,7 +1,7 @@
 url: https://articly.tk
-status: up
-code: 200
-responseTime: 803
-lastUpdated: 2023-04-15T23:04:24.633Z
+status: down
+code: 429
+responseTime: 604
+lastUpdated: 2023-04-16T06:57:26.455Z
 startTime: Sun Oct 09 2022 19:05:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
