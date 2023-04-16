@@ -1,7 +1,7 @@
 url: https://lsnews.cf
-status: up
-code: 200
-responseTime: 779
-lastUpdated: 2023-04-15T23:05:57.199Z
+status: down
+code: 429
+responseTime: 785
+lastUpdated: 2023-04-16T06:59:41.955Z
 startTime: Sun Oct 09 2022 19:40:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
