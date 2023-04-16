@@ -1,7 +1,7 @@
 url: https://pinsec.tk
-status: up
-code: 200
-responseTime: 1037
-lastUpdated: 2023-04-15T23:06:31.539Z
+status: down
+code: 429
+responseTime: 974
+lastUpdated: 2023-04-16T07:00:28.327Z
 startTime: Sun Oct 09 2022 19:41:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
