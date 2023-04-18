@@ -1,7 +1,7 @@
 url: https://laas.ml
-status: down
-code: 429
-responseTime: 497
-lastUpdated: 2023-04-18T13:47:19.948Z
+status: up
+code: 200
+responseTime: 587
+lastUpdated: 2023-04-18T13:57:15.324Z
 startTime: Tue Nov 15 2022 20:29:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
