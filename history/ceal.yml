@@ -1,7 +1,7 @@
 url: https://ceal.ga
-status: up
-code: 200
-responseTime: 853
-lastUpdated: 2023-04-16T23:04:26.061Z
+status: down
+code: 429
+responseTime: 504
+lastUpdated: 2023-04-18T13:45:34.873Z
 startTime: Sun Oct 09 2022 19:39:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
