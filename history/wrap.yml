@@ -1,7 +1,7 @@
 url: https://wrap.gq
-status: up
-code: 200
-responseTime: 2018
-lastUpdated: 2023-04-26T17:54:53.831Z
+status: down
+code: 429
+responseTime: 704
+lastUpdated: 2023-04-26T18:04:55.134Z
 startTime: Sat Dec 03 2022 19:49:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
