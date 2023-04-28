@@ -1,7 +1,7 @@
 url: https://ucube.cf
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2023-04-28T19:10:18.963Z
+status: down
+code: 429
+responseTime: 592
+lastUpdated: 2023-04-28T19:20:31.651Z
 startTime: Sun Oct 09 2022 19:43:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
