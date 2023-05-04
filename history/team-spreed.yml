@@ -1,7 +1,7 @@
 url: https://teamspreed.cf
-status: up
-code: 200
-responseTime: 610
-lastUpdated: 2023-05-04T12:45:36.083Z
+status: down
+code: 429
+responseTime: 599
+lastUpdated: 2023-05-04T13:52:35.063Z
 startTime: Sun Oct 09 2022 19:42:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
