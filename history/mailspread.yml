@@ -1,7 +1,7 @@
 url: https://mailspread.cf
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2023-05-04T23:08:03.558Z
+status: down
+code: 429
+responseTime: 652
+lastUpdated: 2023-05-05T13:30:27.238Z
 startTime: Sat Jan 28 2023 19:48:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
