@@ -1,7 +1,7 @@
 url: https://snoogie.tk
-status: up
-code: 200
-responseTime: 865
-lastUpdated: 2023-05-05T13:43:39.469Z
+status: down
+code: 429
+responseTime: 583
+lastUpdated: 2023-05-05T21:54:08.329Z
 startTime: Sun Oct 09 2022 19:42:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
