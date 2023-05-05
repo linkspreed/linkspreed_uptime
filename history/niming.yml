@@ -1,7 +1,7 @@
 url: https://niming.tk
-status: up
-code: 200
-responseTime: 1824
-lastUpdated: 2023-05-05T13:42:03.974Z
+status: down
+code: 429
+responseTime: 565
+lastUpdated: 2023-05-05T21:52:50.378Z
 startTime: Sun Oct 09 2022 19:41:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
