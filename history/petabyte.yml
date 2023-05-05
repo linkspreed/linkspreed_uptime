@@ -1,7 +1,7 @@
 url: https://petabyte.ml
-status: down
-code: 429
-responseTime: 584
-lastUpdated: 2023-05-05T21:53:13.529Z
+status: up
+code: 200
+responseTime: 2000
+lastUpdated: 2023-05-05T22:17:04.947Z
 startTime: Sun Oct 09 2022 19:41:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
