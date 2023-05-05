@@ -1,7 +1,7 @@
 url: https://crossqa.tk
-status: up
-code: 200
-responseTime: 891
-lastUpdated: 2023-05-05T13:37:24.401Z
+status: down
+code: 429
+responseTime: 585
+lastUpdated: 2023-05-05T21:50:33.030Z
 startTime: Sun Oct 09 2022 19:39:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
