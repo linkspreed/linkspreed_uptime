@@ -1,7 +1,7 @@
 url: https://stix.ga
-status: up
-code: 200
-responseTime: 1317
-lastUpdated: 2023-05-07T16:44:27.482Z
+status: down
+code: 429
+responseTime: 526
+lastUpdated: 2023-05-07T21:25:05.018Z
 startTime: Sun Oct 09 2022 19:42:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
