@@ -1,7 +1,7 @@
 url: https://chirp.ga
-status: up
-code: 200
-responseTime: 1034
-lastUpdated: 2023-05-06T23:04:59.456Z
+status: down
+code: 429
+responseTime: 563
+lastUpdated: 2023-05-08T05:43:03.972Z
 startTime: Sun Oct 09 2022 19:39:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
