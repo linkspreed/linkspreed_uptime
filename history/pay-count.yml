@@ -1,7 +1,7 @@
 url: https://paycount.cf
-status: up
-code: 200
-responseTime: 1918
-lastUpdated: 2023-05-06T23:08:03.334Z
+status: down
+code: 429
+responseTime: 1104
+lastUpdated: 2023-05-08T05:46:13.087Z
 startTime: Sun Oct 09 2022 19:41:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
