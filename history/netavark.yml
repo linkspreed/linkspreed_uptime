@@ -1,7 +1,7 @@
 url: https://netavark.tk
-status: up
-code: 200
-responseTime: 1139
-lastUpdated: 2023-05-06T23:07:43.853Z
+status: down
+code: 429
+responseTime: 564
+lastUpdated: 2023-05-08T05:45:45.422Z
 startTime: Sun Oct 09 2022 19:41:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
