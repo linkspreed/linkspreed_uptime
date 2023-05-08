@@ -1,7 +1,7 @@
 url: https://linklab.ga
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2023-05-06T23:07:27.913Z
+status: down
+code: 429
+responseTime: 350
+lastUpdated: 2023-05-08T05:45:08.613Z
 startTime: Sun Oct 09 2022 19:40:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
