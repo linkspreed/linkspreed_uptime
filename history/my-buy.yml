@@ -1,7 +1,7 @@
 url: https://mybuy.cf
-status: up
-code: 200
-responseTime: 1304
-lastUpdated: 2023-05-11T23:06:37.261Z
+status: down
+code: 429
+responseTime: 587
+lastUpdated: 2023-05-14T06:53:38.609Z
 startTime: Sun Oct 09 2022 19:41:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
