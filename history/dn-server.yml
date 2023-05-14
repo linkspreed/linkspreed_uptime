@@ -1,7 +1,7 @@
 url: https://dnserver.cf
-status: down
-code: 429
-responseTime: 246
-lastUpdated: 2023-05-14T06:52:45.389Z
+status: up
+code: 200
+responseTime: 1920
+lastUpdated: 2023-05-14T07:01:16.980Z
 startTime: Sun Feb 12 2023 07:14:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
