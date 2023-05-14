@@ -1,7 +1,7 @@
 url: https://newsnode.tk
-status: up
-code: 200
-responseTime: 1128
-lastUpdated: 2023-05-11T23:06:43.050Z
+status: down
+code: 429
+responseTime: 584
+lastUpdated: 2023-05-14T06:53:50.248Z
 startTime: Sun Oct 09 2022 19:41:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
