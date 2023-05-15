@@ -1,7 +1,7 @@
 url: https://tacuu.tk
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2023-05-15T15:53:55.037Z
+status: down
+code: 429
+responseTime: 559
+lastUpdated: 2023-05-15T16:27:05.747Z
 startTime: Sun Oct 09 2022 19:42:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
