@@ -1,7 +1,7 @@
 url: https://spypy.cf
-status: up
-code: 200
-responseTime: 1981
-lastUpdated: 2023-05-17T04:46:41.956Z
+status: down
+code: 429
+responseTime: 618
+lastUpdated: 2023-05-17T04:54:11.949Z
 startTime: Sun Oct 09 2022 19:42:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
