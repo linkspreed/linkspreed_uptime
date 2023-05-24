@@ -1,0 +1,15 @@
+name: Get contributions count
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  get-contributions-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get contributions count
+        run: |
+          git log --oneline --author="$GITHUB_ACTOR" | wc -l
