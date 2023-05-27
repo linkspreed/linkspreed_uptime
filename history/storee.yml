@@ -1,7 +1,7 @@
 url: https://storee.cf
-status: up
-code: 200
-responseTime: 1448
-lastUpdated: 2023-05-27T16:40:20.827Z
+status: down
+code: 429
+responseTime: 611
+lastUpdated: 2023-05-27T16:49:54.138Z
 startTime: Sun Oct 09 2022 19:42:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
