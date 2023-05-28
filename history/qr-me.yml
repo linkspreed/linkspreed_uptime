@@ -1,7 +1,7 @@
 url: https://qrme.cf
-status: up
-code: 200
-responseTime: 2361
-lastUpdated: 2023-05-26T23:08:11.515Z
+status: down
+code: 429
+responseTime: 555
+lastUpdated: 2023-05-28T22:55:38.786Z
 startTime: Sun Oct 09 2022 19:41:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
