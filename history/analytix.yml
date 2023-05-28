@@ -1,7 +1,7 @@
 url: https://analytix.tk
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2023-05-26T23:04:24.811Z
+status: down
+code: 429
+responseTime: 691
+lastUpdated: 2023-05-28T22:52:31.541Z
 startTime: Sun Oct 09 2022 19:05:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
