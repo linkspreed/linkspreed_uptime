@@ -1,7 +1,7 @@
 url: https://write.cf
-status: up
-code: 200
-responseTime: 3615
-lastUpdated: 2023-06-01T22:02:16.924Z
+status: down
+code: 429
+responseTime: 631
+lastUpdated: 2023-06-01T22:12:21.994Z
 startTime: Sun Oct 09 2022 19:43:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
