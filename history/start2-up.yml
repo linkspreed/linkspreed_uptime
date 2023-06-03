@@ -1,7 +1,7 @@
 url: https://start2up.tk
-status: up
-code: 200
-responseTime: 1326
-lastUpdated: 2023-06-03T10:34:05.047Z
+status: down
+code: 429
+responseTime: 545
+lastUpdated: 2023-06-03T10:49:41.391Z
 startTime: Sun Oct 09 2022 19:42:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
