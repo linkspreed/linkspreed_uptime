@@ -127,7 +127,7 @@ sites:
   - name: Memevid
     url: https://memevid.tk
   - name: Metabox
-    url: https://metabox.ga
+    url: https://metabox.linkspreed.com
   - name: Metaspace
     url: https://metaspace.tk
   - name: Musiccloud
@@ -183,7 +183,7 @@ sites:
   - name: Quexy
     url: https://quexy.cf
   - name: Rank
-    url: https://rank.ga
+    url: https://rank.linkspreed.com
   - name: RealPin
     url: https://realpin.tk
   - name: Reply
@@ -191,7 +191,7 @@ sites:
   - name: SeedSpreed
     url: https://seedspreed.cf
   - name: Share
-    url: https://share.ga
+    url: https://share.linkspreed.com
   - name: ShareNode
     url: https://sharenode.tk
   - name: Shortcut
@@ -249,7 +249,7 @@ sites:
   - name: Tizza
     url: https://tizza.tk
   - name: Toolbox
-    url: https://toolbox.ga
+    url: https://toolbox.linkspreed.com
   - name: Toolkit
     url: https://toolkit.ga
   - name: Tuit
