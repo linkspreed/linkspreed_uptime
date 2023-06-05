@@ -70,8 +70,7 @@ sites:
   - name: GetPro
     url: https://getpro.gq/
   - name: Gogola
-    url: https://gogola.ga
-    maxResponseTime: 1000000
+    url: https://gogola.ml
   - name: Grown
     url: https://grown.tk
   - name: Guju
