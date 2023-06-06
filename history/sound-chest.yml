@@ -1,7 +1,7 @@
 url: https://soundchest.cf
-status: up
-code: 200
-responseTime: 900
-lastUpdated: 2023-06-06T18:03:28.130Z
+status: down
+code: 429
+responseTime: 581
+lastUpdated: 2023-06-06T18:34:11.851Z
 startTime: Sun Oct 09 2022 19:42:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
