@@ -4,11 +4,11 @@ repo: linkspreed_uptime # The name of this repository
 
 sites:
   - name: Adseasy
-    url: https://adseasy.tk
+    url: https://adseasy.linkspreed.com
   - name: Airr
-    url: https://airr.tk
+    url: https://airr.linkspreed.com
   - name: Analytix
-    url: https://analytix.tk
+    url: https://analytix.linkspreed.com
   - name: Articly
     url: https://articly.tk
   - name: Backpay
