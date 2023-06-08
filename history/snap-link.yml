@@ -1,7 +1,7 @@
 url: https://snaplink.tk
-status: up
-code: 200
-responseTime: 1835
-lastUpdated: 2023-06-08T17:19:59.257Z
+status: down
+code: 429
+responseTime: 961
+lastUpdated: 2023-06-08T18:09:38.200Z
 startTime: Sun Oct 09 2022 19:42:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
