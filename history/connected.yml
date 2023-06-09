@@ -1,7 +1,7 @@
 url: https://connected.tk
-status: up
-code: 200
-responseTime: 4970
-lastUpdated: 2023-06-09T09:11:58.676Z
+status: down
+code: 429
+responseTime: 610
+lastUpdated: 2023-06-09T18:55:41.198Z
 startTime: Wed Nov 09 2022 20:06:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
