@@ -24,11 +24,11 @@ sites:
   - name: Botchat
     url: https://botchat.linkspreed.com
   - name: CallCloud
-    url: https://callcloud.cf
+    url: https://callcloud.linkspreed.com
   - name: Ceal
     url: https://ceal.linkspreed.com
   - name: Cheezz
-    url: https://cheezz.tk
+    url: https://cheezz.linkspreed.com
   - name: Chirp
     url: https://chirp.linkspreed.com
   - name: Chitter
