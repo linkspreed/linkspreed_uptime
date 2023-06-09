@@ -10,17 +10,19 @@ sites:
   - name: Analytix
     url: https://analytix.linkspreed.com
   - name: Articly
-    url: https://articly.tk
+    url: https://articly.linkspreed.com
   - name: Backpay
     url: https://backpay.cf
   - name: BeSave
-    url: https://besave.tk
+    url: https://besave.linkspreed.com
   - name: BeYou
-    url: https://beyou.cf
+    url: https://beyou.linkspreed.com
   - name: Biospreed
-    url: https://biospreed.tk
+    url: https://biospreed.linkspreed.com
   - name: BioX
     url: https://biox.linkspreed.com
+  - name: Botchat
+    url: https://botchat.linkspreed.com
   - name: CallCloud
     url: https://callcloud.cf
   - name: Ceal
