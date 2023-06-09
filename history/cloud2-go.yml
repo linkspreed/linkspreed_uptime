@@ -1,7 +1,7 @@
 url: https://cloud2go.tk
-status: up
-code: 200
-responseTime: 5972
-lastUpdated: 2023-06-09T11:33:59.942Z
+status: down
+code: 429
+responseTime: 594
+lastUpdated: 2023-06-09T18:55:29.658Z
 startTime: Sun Oct 09 2022 19:39:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
