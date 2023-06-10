@@ -32,15 +32,15 @@ sites:
   - name: Chirp
     url: https://chirp.linkspreed.com
   - name: Chitter
-    url: https://chitter.ml
+    url: https://chitter.linkspreed.com
   - name: Cloud2Go
-    url: https://cloud2go.tk
+    url: https://cloud2go.linkspreed.com
   - name: Cloud2Go Share
     url: http://share.cloud2go.tk
   - name: Cloud2Share
-    url: https://cloud2share.tk
+    url: https://cloud2share.linkspreed.com
   - name: CloudSpreed
-    url: https://cloudspreed.tk
+    url: https://cloudspreed.linkspreed.com
   - name: Connected
     url: https://connected.tk
   - name: Contribution
