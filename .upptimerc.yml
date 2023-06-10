@@ -99,6 +99,10 @@ sites:
     url: https://linkcream.tk
   - name: Linkspreed
     url: https://linkspreed.com
+  - name: Linkspreed AI
+    url: https://ai.linkspreed.com
+  - name: Linkspreed Assistant
+    url: https://assistant.linkspreed.com
   - name: Linkspreed Analytics
     url: https://analytics.linkspreed.com
   - name: Linkspreed Drive
