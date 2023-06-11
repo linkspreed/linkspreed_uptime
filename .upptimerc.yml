@@ -93,6 +93,16 @@ sites:
     url: https://kitchat.tk
   - name: LaaS
     url: https://laas.ml
+  - name: LaaS Chatbot
+    url: https://chatbot.laas.ml
+  - name: LaaS Cloudchat
+    url: https://cloudchat.laas.ml
+  - name: LaaS Salesy
+    url: https://salesy.laas.ml
+  - name: Shorts
+    url: https://shorts.laas.ml
+  - name: LaaS Tasks
+    url: https://tasks.laas.ml
   - name: Lime
     url: https://lime.gq
   - name: LinkCream
@@ -107,12 +117,18 @@ sites:
     url: https://analytics.linkspreed.com
   - name: Linkspreed Drive
     url: https://drive.linkspreed.com
-  - name: Helpdesk Linkspreed
-    url: https://helpdesk.linkspreed.com/
+  - name: Linkspreed Helpdesk
+    url: https://helpdesk.linkspreed.com
   - name: Linkspreed Mails
     url: https://mails.linkspreed.com
+  - name: Linkspreed Office
+    url: https://office.linkspreed.com
+  - name: Linkspreed Panel
+    url: https://panel.linkspreed.com
   - name: Linkspreed Photos
     url: https://photos.linkspreed.com
+  - name: Linkspreed Play
+    url: https://play.linkspreed.com
   - name: Linkspreed Store
     url: https://store.linkspreed.com
   - name: Linkspreed Web
@@ -179,10 +195,14 @@ sites:
     url: https://plop.tk
   - name: Poddy
     url: https://poddy.tk
+  - name: Podhub
+    url: https://podhub.cf
   - name: Profilio
     url: https://www.profilio.cf
   - name: Pubit
     url: https://pubit.tk
+  - name: Qizz
+    url: https://qizz.cf
   - name: QRMe
     url: https://qrme.cf
   - name: Quexy
@@ -251,6 +271,10 @@ sites:
     url: https://teamslite.tk
   - name: TeamSpreed
     url: https://teamspreed.cf
+  - name: Teamy
+    url: https://teamy.tk
+  - name: Textpad
+    url: https://textpad.cf
   - name: Tizza
     url: https://tizza.tk
   - name: Toolbox
@@ -281,12 +305,16 @@ sites:
     url: https://web5.cf
   - name: Whatsline
     url: https://whatsline.tk
+  - name: Workspreed
+    url: https://workspreed.tk
   - name: Wrap
     url: https://wrap.gq
   - name: Write
     url: https://write.cf
   - name: Yourpod
     url: https://yourpod.cf
+  - name: Zlit
+    url: https://zlit.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
