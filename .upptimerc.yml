@@ -42,13 +42,13 @@ sites:
   - name: CloudSpreed
     url: https://cloudspreed.linkspreed.com
   - name: Connected
-    url: https://connected.tk
+    url: https://connected.linkspreed.com
   - name: Contribution
-    url: https://contribution.tk
+    url: https://contribution.linkspreed.com
   - name: Critch
-    url: https://critch.cf
+    url: https://critch.linkspreed.com
   - name: CrossQA
-    url: https://crossqa.tk
+    url: https://crossqa.linkspreed.com
   - name: Datify
     url: https://datify.cf
   - name: DeePage
