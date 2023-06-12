@@ -1,7 +1,7 @@
 url: https://share.linkspreed.com
-status: up
-code: 200
-responseTime: 379
-lastUpdated: 2023-06-12T06:48:57.710Z
+status: down
+code: 429
+responseTime: 88
+lastUpdated: 2023-06-12T07:25:51.334Z
 startTime: Sun Oct 09 2022 19:42:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
