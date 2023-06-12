@@ -50,19 +50,19 @@ sites:
   - name: CrossQA
     url: https://crossqa.linkspreed.com
   - name: Datify
-    url: https://datify.cf
+    url: https://datify.linkspreed.com
   - name: DeePage
-    url: https://deepage.tk
+    url: https://deepage.linkspreed.com
   - name: Discounty
     url: https://discounty.tk
   - name: Diskit
-    url: https://diskit.tk
+    url: https://diskit.linkspreed.com
   - name: DNServer
-    url: https://dnserver.cf
+    url: https://dnserver.linkspreed.com
   - name: Downflix
-    url: https://downflix.cf
+    url: https://downflix.linkspreed.com
   - name: Dreambuild
-    url: https://dreambuild.tk
+    url: https://dreambuild.linkspreed.com
   - name: Firelaps
     url: https://firelaps.cf
   - name: FlipX
