@@ -1,7 +1,7 @@
 url: https://showit.tk
-status: up
-code: 200
-responseTime: 1092
-lastUpdated: 2023-06-14T18:58:35.724Z
+status: down
+code: 429
+responseTime: 429
+lastUpdated: 2023-06-14T19:28:30.446Z
 startTime: Sun Oct 09 2022 19:42:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
