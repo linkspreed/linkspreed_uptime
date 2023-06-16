@@ -1,7 +1,7 @@
 url: https://shorts.laas.ml
-status: down
-code: 429
-responseTime: 380
-lastUpdated: 2023-06-16T11:13:13.827Z
+status: up
+code: 200
+responseTime: 2506
+lastUpdated: 2023-06-16T11:49:04.147Z
 startTime: Sun Jun 11 2023 11:42:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
