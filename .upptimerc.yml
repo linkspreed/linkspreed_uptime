@@ -82,15 +82,15 @@ sites:
   - name: Hutty
     url: https://hutty.linkspreed.com
   - name: IceCloud
-    url: https://icecloud.cf
+    url: https://icecloud.linkspreed.com
   - name: Ignyte
-    url: https://ignyte.tk
+    url: https://ignyte.linkspreed.com
   - name: Joyn
-    url: https://joyn.tk
+    url: https://joyn.linkspreed.com
   - name: Kisk
-    url: https://kisk.tk
+    url: https://kisk.linkspreed.com
   - name: KitChat
-    url: https://kitchat.tk
+    url: https://kitchat.linkspreed.com
   - name: LaaS
     url: https://laas.ml
   - name: LaaS Chatbot
