@@ -1,7 +1,7 @@
 url: https://seedspreed.cf
-status: up
-code: 200
-responseTime: 1792
-lastUpdated: 2023-06-16T02:47:00.162Z
+status: down
+code: 429
+responseTime: 485
+lastUpdated: 2023-06-16T03:25:23.220Z
 startTime: Sun Oct 09 2022 19:41:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
