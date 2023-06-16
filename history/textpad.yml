@@ -1,7 +1,7 @@
 url: https://textpad.cf
-status: up
-code: 200
-responseTime: 1041
-lastUpdated: 2023-06-16T18:35:30.626Z
+status: down
+code: 429
+responseTime: 600
+lastUpdated: 2023-06-16T18:43:11.548Z
 startTime: Sun Jun 11 2023 11:44:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
