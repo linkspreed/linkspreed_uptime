@@ -92,7 +92,7 @@ sites:
   - name: KitChat
     url: https://kitchat.linkspreed.com
   - name: LaaS
-    url: https://laas.ml
+    url: https://laas.linkspreed.com
   - name: LaaS Chatbot
     url: https://chatbot.laas.ml
   - name: LaaS Cloudchat
@@ -104,9 +104,9 @@ sites:
   - name: LaaS Tasks
     url: https://tasks.laas.ml
   - name: Lime
-    url: https://lime.gq
+    url: https://lime.linkspreed.com
   - name: LinkCream
-    url: https://linkcream.tk
+    url: https://linkcream.linkspreed.com
   - name: Linkspreed
     url: https://linkspreed.com
   - name: Linkspreed AI
@@ -119,6 +119,8 @@ sites:
     url: https://drive.linkspreed.com
   - name: Linkspreed Helpdesk
     url: https://helpdesk.linkspreed.com
+  - name: Linkspreed Research Lab
+    url: https://lab.linkspreed.com
   - name: Linkspreed Mails
     url: https://mails.linkspreed.com
   - name: Linkspreed Office
@@ -252,7 +254,7 @@ sites:
   - name: Storee
     url: https://storee.cf
   - name: Storpad
-    url: https://storpad.tk
+    url: https://storpad.linkspreed.com
   - name: StreamValley
     url: https://streamvalley.cf 
   - name: StreamValley API
