@@ -64,7 +64,7 @@ sites:
   - name: Dreambuild
     url: https://dreambuild.linkspreed.com
   - name: Firelaps
-    url: https://firelaps.cf
+    url: https://firelaps.linkspreed.com
   - name: FlipX
     url: https://flipx.linkspreed.com
   - name: ForJu
@@ -138,13 +138,13 @@ sites:
   - name: Linkspreed Web4
     url: https://web4.linkspreed.com
   - name: LinkLab
-    url: https://linklab.gq
+    url: https://linklab.linkspreed.com
   - name: LSily
-    url: https://lsily.tk
+    url: https://lsily.linkspreed.com
   - name: LSNews
-    url: https://lsnews.cf
+    url: https://lsnews.linkspreed.com
   - name: Mailspread
-    url: https://mailspread.cf
+    url: https://mailspread.linkspreed.com
   - name: Mapsli
     url: https://mapsli.tk
   - name: Memevid
