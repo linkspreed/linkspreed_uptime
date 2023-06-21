@@ -156,13 +156,13 @@ sites:
   - name: Musiccloud
     url: https://musiccloud.linkspreed.com
   - name: MyBuy
-    url: https://mybuy.cf
+    url: https://mybuy.linkspreed.com
   - name: MyDancX
-    url: https://mydancx.cf
+    url: https://mydancx.linkspreed.com
   - name: Netavark
-    url: https://netavark.tk
+    url: https://netavark.linkspreed.com
   - name: NetSky
-    url: https://netsky.tk
+    url: https://netsky.linkspreed.com
   - name: NewsNode
     url: https://newsnode.tk
   - name: Niming
