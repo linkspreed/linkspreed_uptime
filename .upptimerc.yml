@@ -131,6 +131,8 @@ sites:
     url: https://photos.linkspreed.com
   - name: Linkspreed Play
     url: https://play.linkspreed.com
+  - name: Linkspreed Search
+    url: https://search.linkspreed.com
   - name: Linkspreed Store
     url: https://store.linkspreed.com
   - name: Linkspreed Web
