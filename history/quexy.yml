@@ -1,7 +1,7 @@
 url: https://quexy.cf
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2023-06-22T05:26:37.068Z
+status: down
+code: 429
+responseTime: 4902
+lastUpdated: 2023-06-22T05:43:41.551Z
 startTime: Sun Oct 09 2022 19:41:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
