@@ -182,17 +182,17 @@ sites:
   - name: Payback
     url: https://payback.gq
   - name: PayCount
-    url: https://paycount.cf
+    url: https://paycount.linkspreed.com
   - name: Peek
-    url: https://peek.ml
+    url: https://peek.linkspreed.com
   - name: Petabyte
-    url: https://petabyte.ml
+    url: https://petabyte.linkspreed.com
   - name: PinPix
-    url: https://pinpix.cf
+    url: https://pinpix.linkspreed.com
   - name: PinSec
-    url: https://pinsec.tk
+    url: https://pinsec.linkspreed.com
   - name: Pixly
-    url: https://pixly.tk
+    url: https://pixly.linkspreed.com
   - name: Ples
     url: https://ples.ml
   - name: Plop
