@@ -1,7 +1,7 @@
 url: https://realpin.tk
-status: up
-code: 200
-responseTime: 614
-lastUpdated: 2023-06-22T23:09:12.523Z
+status: down
+code: 429
+responseTime: 3721
+lastUpdated: 2023-06-23T09:01:31.524Z
 startTime: Sun Oct 16 2022 12:54:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
