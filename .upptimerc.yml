@@ -194,13 +194,13 @@ sites:
   - name: Pixly
     url: https://pixly.linkspreed.com
   - name: Ples
-    url: https://ples.ml
+    url: https://ples.linkspreed.com
   - name: Plop
-    url: https://plop.tk
+    url: https://plop.linkspreed.com
   - name: Poddy
-    url: https://poddy.tk
+    url: https://poddy.linkspreed.com
   - name: Podhub
-    url: https://podhub.cf
+    url: https://podhub.linkspreed.com
   - name: Profilio
     url: https://www.profilio.cf
   - name: Pubit
