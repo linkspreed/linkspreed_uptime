@@ -1,7 +1,7 @@
 url: https://sharenode.tk
-status: up
-code: 200
-responseTime: 927
-lastUpdated: 2023-06-24T07:46:14.634Z
+status: down
+code: 429
+responseTime: 649
+lastUpdated: 2023-06-24T08:09:55.455Z
 startTime: Sun Oct 09 2022 19:42:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
