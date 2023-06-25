@@ -1,7 +1,7 @@
 url: https://smartpix.cf
-status: up
-code: 200
-responseTime: 1832
-lastUpdated: 2023-06-25T02:55:19.134Z
+status: down
+code: 429
+responseTime: 730
+lastUpdated: 2023-06-25T03:31:26.032Z
 startTime: Sun Oct 09 2022 19:42:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
