@@ -1,7 +1,7 @@
 url: https://shortrack.tk
-status: up
-code: 200
-responseTime: 4645
-lastUpdated: 2023-06-25T14:57:37.818Z
+status: down
+code: 429
+responseTime: 626
+lastUpdated: 2023-06-25T15:45:12.039Z
 startTime: Sun Oct 09 2022 19:42:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
