@@ -1,7 +1,7 @@
 url: https://shortcut.tk
-status: up
-code: 200
-responseTime: 2023
-lastUpdated: 2023-06-25T17:35:17.431Z
+status: down
+code: 429
+responseTime: 478
+lastUpdated: 2023-06-25T21:28:52.731Z
 startTime: Sun Oct 09 2022 19:42:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
