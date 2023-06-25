@@ -202,19 +202,19 @@ sites:
   - name: Podhub
     url: https://podhub.linkspreed.com
   - name: Profilio
-    url: https://www.profilio.cf
+    url: https://profilio.linkspreed.com
   - name: Pubit
-    url: https://pubit.tk
+    url: https://pubit.linkspreed.com
   - name: Qizz
-    url: https://qizz.cf
+    url: https://qizz.linkspreed.com
   - name: QRMe
-    url: https://qrme.cf
+    url: https://qrme.linkspreed.com
   - name: Quexy
-    url: https://quexy.cf
+    url: https://quexy.linkspreed.com
   - name: Rank
     url: https://rank.linkspreed.com
   - name: RealPin
-    url: https://realpin.tk
+    url: https://realpin.linkspreed.com
   - name: Reply
     url: https://reply.cf
   - name: SeedSpreed
