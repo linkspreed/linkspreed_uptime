@@ -1,7 +1,7 @@
 url: https://quexy.linkspreed.com
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2023-06-25T17:35:08.726Z
+status: down
+code: 429
+responseTime: 608
+lastUpdated: 2023-06-26T20:57:55.754Z
 startTime: Sun Oct 09 2022 19:41:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
