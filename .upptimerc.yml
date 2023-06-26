@@ -216,19 +216,19 @@ sites:
   - name: RealPin
     url: https://realpin.linkspreed.com
   - name: Reply
-    url: https://reply.cf
+    url: https://reply.linkspreed.com
   - name: SeedSpreed
-    url: https://seedspreed.cf
+    url: https://seedspreed.linkspreed.com
   - name: Share
     url: https://share.linkspreed.com
   - name: ShareNode
-    url: https://sharenode.tk
+    url: https://sharenode.linkspreed.com
   - name: Shortcut
-    url: https://shortcut.tk
+    url: https://shortcut.linkspreed.com
   - name: Shortrack
-    url: https://shortrack.tk
+    url: https://shortrack.linkspreed.com
   - name: Showit
-    url: https://showit.tk
+    url: https://showit.linkspreed.com
   - name: SiteSpace
     url: https://sitespace.tk
   - name: Slinky
