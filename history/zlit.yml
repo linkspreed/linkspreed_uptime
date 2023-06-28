@@ -1,7 +1,7 @@
 url: https://zlit.tk
-status: up
-code: 200
-responseTime: 2385
-lastUpdated: 2023-06-28T10:55:23.453Z
+status: down
+code: 429
+responseTime: 383
+lastUpdated: 2023-06-28T18:32:46.242Z
 startTime: Sun Jun 11 2023 11:45:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
