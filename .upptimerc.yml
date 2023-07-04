@@ -310,15 +310,15 @@ sites:
   - name: Whatsline
     url: https://whatsline.tk
   - name: Workspreed
-    url: https://workspreed.tk
+    url: https://workspreed.linkspreed.com
   - name: Wrap
-    url: https://wrap.gq
+    url: https://wrap.linkspreed.com
   - name: Write
-    url: https://write.cf
+    url: https://write.linkspreed.com
   - name: Yourpod
-    url: https://yourpod.cf
+    url: https://yourpod.linkspreed.com
   - name: Zlit
-    url: https://zlit.tk
+    url: https://zlit.linkspreed.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
