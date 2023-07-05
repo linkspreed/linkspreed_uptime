@@ -1,7 +1,7 @@
 url: https://qizz.linkspreed.com
-status: up
-code: 200
-responseTime: 2154
-lastUpdated: 2023-07-05T21:25:48.928Z
+status: down
+code: 429
+responseTime: 180
+lastUpdated: 2023-07-05T21:42:28.731Z
 startTime: Sun Jun 11 2023 11:43:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
