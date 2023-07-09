@@ -1,7 +1,7 @@
 url: https://sharenode.linkspreed.com
-status: up
-code: 200
-responseTime: 2155
-lastUpdated: 2023-07-09T19:45:02.940Z
+status: down
+code: 429
+responseTime: 146
+lastUpdated: 2023-07-09T21:47:51.639Z
 startTime: Sun Oct 09 2022 19:42:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
