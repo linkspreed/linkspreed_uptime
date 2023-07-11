@@ -233,6 +233,8 @@ sites:
     url: https://showit.linkspreed.com
   - name: SiteSpace
     url: https://sitespace.linkspreed.com
+  - name: Skyup
+    url: https://skyup.linkspreed.com
   - name: Slinky
     url: https://slinky.linkspreed.com
   - name: Slurch
