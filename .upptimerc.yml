@@ -111,6 +111,8 @@ sites:
     url: https://linkspreed.com
   - name: Linkspreed AI
     url: https://ai.linkspreed.com
+  - name: Linkspreed AIDA
+    url: https://aida.linkspreed.com
   - name: Linkspreed Assistant
     url: https://assistant.linkspreed.com
   - name: Linkspreed Analytics
