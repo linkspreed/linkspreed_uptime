@@ -1,7 +1,7 @@
 url: https://realpin.linkspreed.com
-status: up
-code: 200
-responseTime: 324
-lastUpdated: 2023-07-21T23:06:15.294Z
+status: down
+code: 429
+responseTime: 144
+lastUpdated: 2023-07-22T11:02:48.728Z
 startTime: Sun Oct 16 2022 12:54:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
