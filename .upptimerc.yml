@@ -47,8 +47,12 @@ sites:
     url: https://contribution.linkspreed.com
   - name: Critch
     url: https://critch.linkspreed.com
+  - name: CRM Demo
+    url: https://crm-demo.linkspreed.com
   - name: CrossQA
     url: https://crossqa.linkspreed.com
+  - name: Dash
+    url: https://dash.linkspreed.com
   - name: Datify
     url: https://datify.linkspreed.com
   - name: DeePage
