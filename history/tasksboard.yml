@@ -1,7 +1,7 @@
 url: https://tasksboard.linkspreed.com
-status: up
-code: 200
-responseTime: 525
-lastUpdated: 2023-07-26T13:15:43.704Z
+status: down
+code: 429
+responseTime: 86
+lastUpdated: 2023-07-27T03:01:52.352Z
 startTime: Sun Oct 09 2022 19:42:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
