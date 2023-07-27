@@ -310,7 +310,9 @@ sites:
   - name: UpDown
     url: https://updown.linkspreed.com
   - name: UpNode
-    url: https://upnode.linkspreed.com
+    url: https://upnode.linkspreed.com#
+  - name: Uptime
+    url: https://uptime.linkspreed.com
   - name: VoiceClub
     url: https://voiceclub.tk
   - name: Web5
