@@ -1,7 +1,7 @@
 url: https://zlit.linkspreed.com
-status: up
-code: 200
-responseTime: 3417
-lastUpdated: 2023-07-27T10:33:34.625Z
+status: down
+code: 429
+responseTime: 137
+lastUpdated: 2023-07-27T10:41:06.296Z
 startTime: Sun Jun 11 2023 11:45:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
