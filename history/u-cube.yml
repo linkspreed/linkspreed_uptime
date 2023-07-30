@@ -1,7 +1,7 @@
 url: https://ucube.linkspreed.com
-status: up
-code: 200
-responseTime: 127
-lastUpdated: 2023-07-30T16:36:58.959Z
+status: down
+code: 429
+responseTime: 134
+lastUpdated: 2023-07-30T20:49:32.128Z
 startTime: Sun Oct 09 2022 19:43:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
