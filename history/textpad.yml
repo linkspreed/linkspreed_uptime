@@ -1,7 +1,7 @@
 url: https://textpad.linkspreed.com
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2023-07-29T23:16:44.855Z
+status: down
+code: 429
+responseTime: 69
+lastUpdated: 2023-07-30T02:44:27.395Z
 startTime: Sun Jun 11 2023 11:44:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
