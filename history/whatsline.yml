@@ -1,7 +1,7 @@
 url: https://whatsline.tk
-status: up
-code: 200
-responseTime: 1340
-lastUpdated: 2023-07-30T03:27:30.272Z
+status: down
+code: 429
+responseTime: 1125
+lastUpdated: 2023-07-30T03:36:40.095Z
 startTime: Sun Oct 09 2022 19:43:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
