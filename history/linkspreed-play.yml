@@ -1,7 +1,7 @@
 url: https://play.linkspreed.com
-status: up
-code: 200
-responseTime: 256
-lastUpdated: 2023-08-01T23:05:06.476Z
+status: down
+code: 429
+responseTime: 160
+lastUpdated: 2023-08-02T18:30:51.259Z
 startTime: Sun Jun 11 2023 11:42:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
