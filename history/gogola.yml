@@ -1,7 +1,7 @@
 url: https://gogola.linkspreed.com
-status: up
-code: 200
-responseTime: 662
-lastUpdated: 2023-08-01T23:04:36.921Z
+status: down
+code: 429
+responseTime: 138
+lastUpdated: 2023-08-02T18:30:15.228Z
 startTime: Sun Oct 09 2022 19:40:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
