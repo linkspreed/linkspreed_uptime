@@ -1,7 +1,7 @@
 url: https://tizza.linkspreed.com
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2023-08-23T23:07:26.587Z
+status: down
+code: 429
+responseTime: 96
+lastUpdated: 2023-08-23T23:47:54.447Z
 startTime: 2022-10-09T19:42:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
