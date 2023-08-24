@@ -1,7 +1,7 @@
 url: https://toolbox.linkspreed.com
-status: up
-code: 200
-responseTime: 1826
-lastUpdated: 2023-08-24T06:31:12.951Z
+status: down
+code: 429
+responseTime: 132
+lastUpdated: 2023-08-24T22:44:15.651Z
 startTime: 2022-12-09T13:21:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
