@@ -1,7 +1,7 @@
 url: https://snaplink.linkspreed.com
-status: up
-code: 200
-responseTime: 1387
-lastUpdated: 2023-08-25T14:13:11.100Z
+status: down
+code: 429
+responseTime: 67
+lastUpdated: 2023-08-25T15:16:40.050Z
 startTime: 2022-10-09T19:42:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
