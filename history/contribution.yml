@@ -1,7 +1,7 @@
 url: https://contribution.linkspreed.com
-status: up
-code: 200
-responseTime: 816
-lastUpdated: 2023-08-23T23:05:05.690Z
+status: down
+code: 429
+responseTime: 66
+lastUpdated: 2023-08-25T02:34:52.004Z
 startTime: 2022-10-09T19:39:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
