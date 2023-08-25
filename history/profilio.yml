@@ -1,7 +1,7 @@
 url: https://profilio.linkspreed.com
-status: up
-code: 200
-responseTime: 1043
-lastUpdated: 2023-08-23T23:06:40.041Z
+status: down
+code: 429
+responseTime: 68
+lastUpdated: 2023-08-25T02:35:51.623Z
 startTime: 2022-10-09T19:41:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
