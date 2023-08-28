@@ -1,7 +1,7 @@
 url: https://slinky.linkspreed.com
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2023-08-27T23:16:21.847Z
+status: down
+code: 429
+responseTime: 130
+lastUpdated: 2023-08-28T07:29:14.770Z
 startTime: 2022-10-09T19:42:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
