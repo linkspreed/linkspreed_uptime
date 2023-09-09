@@ -1,7 +1,7 @@
 url: https://spypy.linkspreed.com
-status: up
-code: 200
-responseTime: 377
-lastUpdated: 2023-09-08T19:25:41.173Z
+status: down
+code: 429
+responseTime: 74
+lastUpdated: 2023-09-09T12:56:21.123Z
 startTime: 2022-10-09T19:42:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
