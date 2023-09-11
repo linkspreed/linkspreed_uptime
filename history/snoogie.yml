@@ -1,7 +1,7 @@
 url: https://snoogie.linkspreed.com
-status: up
-code: 200
-responseTime: 378
-lastUpdated: 2023-09-11T13:28:18.937Z
+status: down
+code: 429
+responseTime: 63
+lastUpdated: 2023-09-11T16:51:56.311Z
 startTime: 2022-10-09T19:42:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
