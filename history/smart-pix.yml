@@ -1,7 +1,7 @@
 url: https://smartpix.linkspreed.com
-status: up
-code: 200
-responseTime: 1243
-lastUpdated: 2023-09-17T15:41:10.002Z
+status: down
+code: 429
+responseTime: 143
+lastUpdated: 2023-09-17T20:01:11.459Z
 startTime: 2022-10-09T19:42:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
