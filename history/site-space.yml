@@ -1,7 +1,7 @@
 url: https://sitespace.linkspreed.com
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2023-09-16T23:05:34.227Z
+status: down
+code: 429
+responseTime: 275
+lastUpdated: 2023-09-17T07:14:40.313Z
 startTime: 2022-10-27T17:15:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
