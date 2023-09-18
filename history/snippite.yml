@@ -1,7 +1,7 @@
 url: https://snippite.linkspreed.com
-status: up
-code: 200
-responseTime: 422
-lastUpdated: 2023-09-18T05:51:36.595Z
+status: down
+code: 429
+responseTime: 148
+lastUpdated: 2023-09-18T05:59:47.504Z
 startTime: 2022-10-09T19:42:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
