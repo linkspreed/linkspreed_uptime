@@ -1,7 +1,7 @@
 url: https://firelaps.cf
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2023-10-30T23:05:50.378Z
+status: down
+code: 503
+responseTime: 529
+lastUpdated: 2023-10-31T06:57:39.140Z
 startTime: 2022-10-09T19:39:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
