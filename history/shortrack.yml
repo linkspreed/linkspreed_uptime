@@ -1,7 +1,7 @@
 url: https://shortrack.linkspreed.com
-status: up
-code: 200
-responseTime: 1835
-lastUpdated: 2023-11-08T18:10:12.939Z
+status: down
+code: 429
+responseTime: 417
+lastUpdated: 2023-11-08T22:47:28.822Z
 startTime: 2022-10-09T19:42:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
