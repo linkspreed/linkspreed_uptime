@@ -1,7 +1,7 @@
 url: https://taya.linkspreed.com
-status: up
-code: 200
-responseTime: 902
-lastUpdated: 2023-11-08T17:18:25.674Z
+status: down
+code: 429
+responseTime: 330
+lastUpdated: 2023-11-08T17:29:45.399Z
 startTime: 2022-10-09T19:42:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
