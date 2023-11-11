@@ -1,7 +1,7 @@
 url: https://api.streamvalley.cf
-status: up
-code: 200
-responseTime: 643
-lastUpdated: 2023-11-11T04:38:12.226Z
+status: down
+code: 429
+responseTime: 771
+lastUpdated: 2023-11-11T04:46:58.571Z
 startTime: 2022-10-09T19:42:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
