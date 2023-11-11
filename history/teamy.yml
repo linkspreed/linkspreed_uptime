@@ -1,7 +1,7 @@
 url: https://teamy.linkspreed.com
-status: up
-code: 200
-responseTime: 1284
-lastUpdated: 2023-11-11T03:24:31.216Z
+status: down
+code: 429
+responseTime: 381
+lastUpdated: 2023-11-11T03:33:25.598Z
 startTime: 2023-06-11T11:44:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
