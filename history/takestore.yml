@@ -1,7 +1,7 @@
 url: https://takestore.linkspreed.com
-status: up
-code: 200
-responseTime: 1374
-lastUpdated: 2023-11-14T19:41:00.078Z
+status: down
+code: 429
+responseTime: 327
+lastUpdated: 2023-11-14T20:33:43.692Z
 startTime: 2022-10-09T19:42:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
