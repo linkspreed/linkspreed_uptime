@@ -1,7 +1,7 @@
 url: https://stix.linkspreed.com
-status: down
-code: 429
-responseTime: 391
-lastUpdated: 2023-11-17T03:49:56.120Z
+status: up
+code: 200
+responseTime: 1260
+lastUpdated: 2023-11-17T06:56:00.471Z
 startTime: 2022-10-09T19:42:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
