@@ -1,7 +1,7 @@
 url: https://shortcut.linkspreed.com
-status: up
-code: 200
-responseTime: 1262
-lastUpdated: 2023-11-16T23:07:59.478Z
+status: down
+code: 429
+responseTime: 360
+lastUpdated: 2023-11-17T02:38:05.864Z
 startTime: 2022-10-09T19:42:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
