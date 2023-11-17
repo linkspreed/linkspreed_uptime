@@ -1,7 +1,7 @@
 url: https://tungolino.linkspreed.com
-status: up
-code: 200
-responseTime: 1206
-lastUpdated: 2023-11-17T22:44:40.934Z
+status: down
+code: 429
+responseTime: 418
+lastUpdated: 2023-11-17T23:49:34.355Z
 startTime: 2022-10-09T19:42:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
