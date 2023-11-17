@@ -1,7 +1,7 @@
 url: https://start2up.linkspreed.com
-status: up
-code: 200
-responseTime: 753
-lastUpdated: 2023-11-17T02:55:44.975Z
+status: down
+code: 429
+responseTime: 388
+lastUpdated: 2023-11-17T03:49:52.975Z
 startTime: 2022-10-09T19:42:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
