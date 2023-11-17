@@ -1,7 +1,7 @@
 url: https://storee.linkspreed.com
-status: up
-code: 200
-responseTime: 1724
-lastUpdated: 2023-11-17T02:55:49.798Z
+status: down
+code: 429
+responseTime: 444
+lastUpdated: 2023-11-17T03:50:02.821Z
 startTime: 2022-10-09T19:42:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
