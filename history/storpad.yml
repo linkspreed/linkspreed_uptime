@@ -1,7 +1,7 @@
 url: https://storpad.linkspreed.com
-status: up
-code: 200
-responseTime: 1742
-lastUpdated: 2023-11-18T08:37:27.183Z
+status: down
+code: 429
+responseTime: 418
+lastUpdated: 2023-11-18T08:45:46.672Z
 startTime: 2022-12-30T20:00:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
