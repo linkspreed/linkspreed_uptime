@@ -1,7 +1,7 @@
 url: https://wrap.linkspreed.com
-status: up
-code: 200
-responseTime: 2278
-lastUpdated: 2023-12-17T21:54:21.582Z
+status: down
+code: 429
+responseTime: 408
+lastUpdated: 2023-12-17T22:32:48.672Z
 startTime: 2022-12-03T19:49:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
