@@ -1,7 +1,7 @@
 url: https://tuit.linkspreed.com
-status: up
-code: 200
-responseTime: 3156
-lastUpdated: 2023-12-17T17:28:16.327Z
+status: down
+code: 429
+responseTime: 435
+lastUpdated: 2023-12-17T23:41:46.325Z
 startTime: 2022-10-09T19:42:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
