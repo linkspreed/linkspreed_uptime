@@ -1,7 +1,7 @@
 url: https://teamix.linkspreed.com
 status: down
-code: 500
-responseTime: 1601
-lastUpdated: 2023-12-22T23:09:57.312Z
+code: 429
+responseTime: 416
+lastUpdated: 2023-12-23T23:08:30.724Z
 startTime: 2022-10-09T19:42:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
