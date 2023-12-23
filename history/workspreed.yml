@@ -1,7 +1,7 @@
 url: https://workspreed.linkspreed.com
-status: up
-code: 200
-responseTime: 986
-lastUpdated: 2023-12-23T19:56:28.925Z
+status: down
+code: 429
+responseTime: 669
+lastUpdated: 2023-12-23T20:41:03.170Z
 startTime: 2023-06-11T11:45:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
