@@ -1,7 +1,7 @@
 url: https://store4ju.linkspreed.com
-status: up
-code: 200
-responseTime: 1156
-lastUpdated: 2023-12-25T21:54:43.121Z
+status: down
+code: 429
+responseTime: 430
+lastUpdated: 2023-12-25T23:09:04.169Z
 startTime: 2022-10-09T19:42:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
