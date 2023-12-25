@@ -1,7 +1,7 @@
 url: https://teamspreed.linkspreed.com
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2023-12-25T17:37:59.143Z
+status: down
+code: 429
+responseTime: 389
+lastUpdated: 2023-12-25T18:41:17.002Z
 startTime: 2022-10-09T19:42:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
