@@ -1,7 +1,7 @@
 url: https://ulticloud.linkspreed.com
-status: up
-code: 200
-responseTime: 1711
-lastUpdated: 2023-12-26T13:37:56.237Z
+status: down
+code: 429
+responseTime: 436
+lastUpdated: 2023-12-26T13:46:15.060Z
 startTime: 2022-10-09T19:43:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
