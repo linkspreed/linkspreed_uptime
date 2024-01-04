@@ -1,7 +1,7 @@
 url: https://twig.linkspreed.com
-status: up
-code: 200
-responseTime: 724
-lastUpdated: 2024-01-04T13:42:35.511Z
+status: down
+code: 429
+responseTime: 430
+lastUpdated: 2024-01-04T15:23:41.203Z
 startTime: 2022-10-09T19:43:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
