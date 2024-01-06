@@ -1,7 +1,7 @@
 url: https://tweetch.linkspreed.com
-status: up
-code: 200
-responseTime: 1246
-lastUpdated: 2024-01-06T05:31:05.237Z
+status: down
+code: 429
+responseTime: 401
+lastUpdated: 2024-01-06T07:38:53.337Z
 startTime: 2022-10-09T19:42:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
