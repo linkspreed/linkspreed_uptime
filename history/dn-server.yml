@@ -1,7 +1,7 @@
 url: https://dnserver.linkspreed.com
-status: up
-code: 200
-responseTime: 1123
-lastUpdated: 2024-01-06T23:06:02.677Z
+status: down
+code: 429
+responseTime: 473
+lastUpdated: 2024-01-07T23:48:22.136Z
 startTime: 2023-02-12T07:14:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
