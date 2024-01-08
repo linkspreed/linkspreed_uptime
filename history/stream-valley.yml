@@ -1,7 +1,7 @@
 url: https://streamvalley.linkspreed.com
-status: up
-code: 200
-responseTime: 1378
-lastUpdated: 2024-01-08T16:41:37.152Z
+status: down
+code: 429
+responseTime: 389
+lastUpdated: 2024-01-08T20:48:48.578Z
 startTime: 2022-10-09T19:42:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
