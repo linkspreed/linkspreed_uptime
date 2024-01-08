@@ -1,7 +1,7 @@
 url: https://skyup.linkspreed.com
-status: up
-code: 200
-responseTime: 2556
-lastUpdated: 2024-01-08T04:47:46.223Z
+status: down
+code: 429
+responseTime: 317
+lastUpdated: 2024-01-08T08:41:43.675Z
 startTime: 2023-07-11T19:25:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
