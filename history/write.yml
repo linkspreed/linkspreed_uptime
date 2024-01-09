@@ -1,7 +1,7 @@
 url: https://write.linkspreed.com
-status: up
-code: 200
-responseTime: 528
-lastUpdated: 2024-01-09T15:53:36.581Z
+status: down
+code: 429
+responseTime: 389
+lastUpdated: 2024-01-09T16:51:36.226Z
 startTime: 2022-10-09T19:43:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
