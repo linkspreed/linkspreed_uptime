@@ -1,7 +1,7 @@
 url: https://web5.linkspreed.com
-status: up
-code: 200
-responseTime: 1697
-lastUpdated: 2024-01-10T03:40:42.129Z
+status: down
+code: 429
+responseTime: 388
+lastUpdated: 2024-01-10T03:49:38.902Z
 startTime: 2022-10-09T19:43:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
