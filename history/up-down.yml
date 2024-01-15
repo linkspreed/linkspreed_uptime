@@ -1,7 +1,7 @@
 url: https://updown.linkspreed.com
-status: up
-code: 200
-responseTime: 1594
-lastUpdated: 2024-01-15T04:55:15.467Z
+status: down
+code: 429
+responseTime: 418
+lastUpdated: 2024-01-15T05:30:20.102Z
 startTime: 2022-10-09T19:43:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
