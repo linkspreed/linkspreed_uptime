@@ -1,7 +1,7 @@
 url: https://toolkit.linkspreed.com
-status: up
-code: 200
-responseTime: 1062
-lastUpdated: 2024-01-18T04:59:17.809Z
+status: down
+code: 429
+responseTime: 434
+lastUpdated: 2024-01-18T05:32:05.586Z
 startTime: 2022-10-09T19:42:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
