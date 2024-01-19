@@ -1,7 +1,7 @@
 url: https://yourpod.linkspreed.com
-status: up
-code: 200
-responseTime: 869
-lastUpdated: 2024-01-19T06:37:31.704Z
+status: down
+code: 429
+responseTime: 1420
+lastUpdated: 2024-01-19T06:48:09.529Z
 startTime: 2022-10-09T19:43:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
