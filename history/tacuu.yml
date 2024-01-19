@@ -1,7 +1,7 @@
 url: https://tacuu.linkspreed.com
-status: up
-code: 200
-responseTime: 700
-lastUpdated: 2024-01-19T05:47:26.757Z
+status: down
+code: 429
+responseTime: 1363
+lastUpdated: 2024-01-19T06:45:56.707Z
 startTime: 2022-10-09T19:42:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
