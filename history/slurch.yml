@@ -1,7 +1,7 @@
 url: https://slurch.linkspreed.com
-status: up
-code: 200
-responseTime: 1505
-lastUpdated: 2024-01-24T02:09:06.970Z
+status: down
+code: 429
+responseTime: 661
+lastUpdated: 2024-01-24T02:37:15.583Z
 startTime: 2022-10-09T19:42:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
