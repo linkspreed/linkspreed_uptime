@@ -1,7 +1,7 @@
 url: https://showit.linkspreed.com
-status: up
-code: 200
-responseTime: 1194
-lastUpdated: 2024-01-26T15:32:05.002Z
+status: down
+code: 429
+responseTime: 406
+lastUpdated: 2024-01-26T17:26:41.680Z
 startTime: 2022-10-09T19:42:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
