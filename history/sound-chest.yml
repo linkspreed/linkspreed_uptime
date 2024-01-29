@@ -1,7 +1,7 @@
 url: https://soundchest.linkspreed.com
-status: up
-code: 200
-responseTime: 1235
-lastUpdated: 2024-01-29T10:15:57.339Z
+status: down
+code: 429
+responseTime: 351
+lastUpdated: 2024-01-29T10:31:28.649Z
 startTime: 2022-10-09T19:42:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
